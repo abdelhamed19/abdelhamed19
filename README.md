@@ -21,7 +21,7 @@
 
 ### 📫 Contact Me:
 - Email: **abdelhamed.muhammed19@gmail.com**
-- LinkedIn: [https://www.linkedin.com/in/abdelhamedmuhammed19/](#)
+- LinkedIn: [Abdelhamed Muhammed]([#](https://www.linkedin.com/in/abdelhamedmuhammed19/))
 
 ---
 
