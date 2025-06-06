@@ -20,8 +20,8 @@
 ---
 
 ### 📫 Contact Me:
-- Email: **abdelhamed.muhammed19@gmail.com**
-- LinkedIn: [Abdelhamed Muhammed]([#](https://www.linkedin.com/in/abdelhamedmuhammed19/))
+- Email: **abdelhamed@example.com**
+- LinkedIn: [Abdelhamed Muhammed](https://www.linkedin.com/in/abdelhamedmuhammed19/)
 
 ---
 
